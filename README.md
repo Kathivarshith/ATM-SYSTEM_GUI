@@ -130,10 +130,7 @@ streamlit run app.py
 ---
 
 ## 🌐 Live Demo
-
-**Coming Soon...**
-
-(After deploying to Streamlit, replace this with your live app URL.)
+https://atm-systemgui-rqy9etkcdtsfqyb6v93ngw.streamlit.app/
 
 ---
 
