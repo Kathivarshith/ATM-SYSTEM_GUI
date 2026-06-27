@@ -110,7 +110,7 @@ else:
     col1, col2, col3 = st.columns([2,1,2])
 
     with col2:
-        st.image("assets/atm_logo.png", width=140)
+        st.image("assets/screenshots/atm_logo.png", width=140)
 
     # ---------- TITLE ----------
 
