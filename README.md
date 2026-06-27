@@ -88,35 +88,33 @@ streamlit run app.py
 
 ## 📸 Application Screenshots
 
-## 📸 Application Screenshots
-
 ### 🔐 Login Page
 
-![Login Page](assets/screenshots/login_page.png)
+![Login Page](assets/screenshots/Login%20Page.png)
 
 ### 🏠 Dashboard
 
-![Dashboard](assets/screenshots/dashboard.png)
+![Dashboard](assets/screenshots/Dashboard.png)
 
 ### 💰 Check Balance
 
-![Check Balance](assets/screenshots/check_balance.png)
+![Check Balance](assets/screenshots/Check%20Balance.png)
 
 ### 💵 Deposit Money
 
-![Deposit Money](assets/screenshots/deposit.png)
+![Deposit Money](assets/screenshots/Deposit.png)
 
 ### 💸 Withdraw Money
 
-![Withdraw Money](assets/screenshots/withdraw.png)
+![Withdraw Money](assets/screenshots/Withdraw%20Money.png)
 
 ### 🔑 Change PIN
 
-![Change PIN](assets/screenshots/change_pin.png)
+![Change PIN](assets/screenshots/Change%20Pin.png)
 
 ### 📄 Mini Statement
 
-![Mini Statement](assets/screenshots/mini_statement.png)
+![Mini Statement](assets/screenshots/Mini%20Statement.png)
 
 ## 🚀 Future Improvements
 
