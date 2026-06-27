@@ -55,7 +55,7 @@ if not st.session_state.logged_in:
     col1, col2, col3 = st.columns([2,1,2])
 
     with col2:
-        st.image("assets/atm_logo.png", width=250)
+        st.image("assets/screenshots/atm_logo.png", width=250)
 
     st.markdown(
         """
