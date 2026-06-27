@@ -86,15 +86,47 @@ streamlit run app.py
 
 ## 📸 Application Preview
 
-> Add screenshots of your application here after uploading them.
+## 📸 Application Screenshots
 
-- 🔐 Login Page
-- 🏠 Dashboard
-- 💰 Check Balance
-- 💵 Deposit Money
-- 💸 Withdraw Money
-- 🔑 Change PIN
-- 📄 Mini Statement
+### 🔐 Login Page
+
+![Login Page](assets/screenshots/Login page.png)
+
+---
+
+### 🏠 Dashboard
+
+![Dashboard](assets/screenshots/Dashboard.png)
+
+---
+
+### 💰 Check Balance
+
+![Check Balance](assets/screenshots/Check Balance.png)
+
+---
+
+### 💵 Deposit Money
+
+![Deposit Money](assets/screenshots/Deposit.png)
+
+---
+
+### 💸 Withdraw Money
+
+![Withdraw Money](assets/screenshots/Withdraw Dashboard.png)
+
+---
+
+### 🔑 Change PIN
+
+![Change PIN](assets/screenshots/Change Pin.png)
+
+---
+
+### 📄 Mini Statement
+
+![Mini Statement](assets/screenshots/Mini Statement.png)
 
 ---
 
